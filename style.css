@@ -118,7 +118,7 @@ li span{
     padding-left: 4rem;
 }
 
-
+a:visited {color:blue;}
 
 .education-gap,
 .awards-gap,
